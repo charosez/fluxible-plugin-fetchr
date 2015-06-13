@@ -1,11 +1,11 @@
 {
-  "name": "fluxible-plugin-fetchr",
-  "version": "0.3.2",
-  "description": "A plugin for Fluxible applications to provide an isomorphic interface for RESTful services",
+  "name": "fluxible-plugin-fetchr-component-context",
+  "version": "1.0.0",
+  "description": "This is a modification of fluxible-plugin-fetchr, it allows service to be available through the component context",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/yahoo/fluxible-plugin-fetchr.git"
+    "url": "git://github.com/charosez/fluxible-plugin-fetchr.git"
   },
   "scripts": {
     "test": "mocha tests/unit/ --recursive --reporter spec",
@@ -27,7 +27,7 @@
     "mockery": "^1.4.0",
     "precommit-hook": "1.0.x"
   },
-  "author": "Michael Ridgway <mridgway@yahoo-inc.com>",
+  "author": "GlassLab <charles@glasslabgames.org>",
   "contributors": [],
   "licenses": [
     {
