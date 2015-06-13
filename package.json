@@ -1,6 +1,6 @@
 {
   "name": "fluxible-plugin-fetchr-component-context",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a modification of fluxible-plugin-fetchr, it allows service to be available through the component context",
   "main": "index.js",
   "repository": {
